@@ -25,7 +25,7 @@ def search_student():
         print("Student not found.\n")
 
 while True:
-    print("1. Add Student")
+    print("1. insert Student")
     print("2. View Students")
     print("3. Search Student")
     print("4. Exit")
